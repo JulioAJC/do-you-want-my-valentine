@@ -1,0 +1,32 @@
+.cabezera{
+    background: linear-gradient( rgb(106, 229, 233), rgb(119, 106, 233));
+    background-position: center;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding: 30px;
+    
+}
+
+
+.instrucciones{
+    font-size: 20px;
+}
+
+
+@media screen and (max-width:900px) {
+    .cabezera{
+    
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+    padding-top: 30px;
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+    text-align: center;
+    
+}
+
+}
