@@ -1,9 +1,9 @@
 
 .arreglo{
-
+    
     padding: 10px;
     justify-content: space-around;
-    margin: 2% auto;
+    margin: 8% auto;
 }
 
 .cuerpo-1{
@@ -15,8 +15,8 @@
 }
 
 .imagen-arreglo{
-    height: 300px;
-    width: 350px;
+    height: 350px;
+    width: 375px;
     
     border-radius: 30%;
     box-shadow: 5px 5px 20px 5px rgb(119, 119, 119) ;
@@ -67,6 +67,7 @@
     
     
     .imagen-arreglo{
+        
         height:300px;
         width: 50%;
         
@@ -82,19 +83,20 @@
     
     
     .imagen-arreglo{
+        margin-top: 270px;
         height:250px;
         width: 90%;
         margin-left: 5%;
     }
 
     .imagen-tarjeta{
-        height: 125px;
-        width: 125px;
+        height: 225px;
+        width: 225px;
         justify-content: space-between;
     }
     
     .item-nombre{
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 700;
     }
 }
